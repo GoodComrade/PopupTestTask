@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IconsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 0fc818dd5afb19c47b6e992494303335, type: 3}
+    - {fileID: 102900000, guid: 96004e9bb062b854791e9b879e95ea95, type: 3}
+    - {fileID: 102900000, guid: e2c2b13abd128344b8cc3523f4147efd, type: 3}
+    - {fileID: 102900000, guid: 4e512a75ffbe67a479e3f1e4d7bb9bc2, type: 3}
+    - {fileID: 102900000, guid: 5f843c77dd0f5274487e470a67135a6f, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 0aefdc00b474d2f44815157c2001d676, type: 3}
+  - {fileID: 21300000, guid: 856687f240e838c46b9a92349d69563b, type: 3}
+  - {fileID: 21300000, guid: 58fa08b54ba7ba8429bf35eea4962102, type: 3}
+  - {fileID: 21300000, guid: 12929e26a9147934c84bf0d9fc34d47a, type: 3}
+  - {fileID: 21300000, guid: 9f1b4d86085cf354c8d2442103ae1a46, type: 3}
+  - {fileID: 21300000, guid: f7a6879643095904a9d3919ec7fd9371, type: 3}
+  - {fileID: 21300000, guid: d2007c679d4457f4a94b637be3571188, type: 3}
+  - {fileID: 21300000, guid: 42e71777c622c0a4d87ce9451e597b6a, type: 3}
+  - {fileID: 21300000, guid: 6b248c98d97f3d84c8ac02aaff654bdd, type: 3}
+  - {fileID: 21300000, guid: a10d82a86219da9479070243c3c11dfc, type: 3}
+  - {fileID: 21300000, guid: 44f2f0e997f1b4248aed4e7862423af7, type: 3}
+  - {fileID: 21300000, guid: b627e0ea617aac74b93842f3bee46f6a, type: 3}
+  - {fileID: 21300000, guid: 41c114cbd58a6064582cfe6510d86ae0, type: 3}
+  - {fileID: 21300000, guid: eb561adbae990a14d9c92a2c9c54feac, type: 3}
+  - {fileID: 21300000, guid: 4bb4c1acfe3b1284fbd0640cb7525fbc, type: 3}
+  - {fileID: 21300000, guid: d39363ac77d6a564a9fd6a8245633c25, type: 3}
+  - {fileID: 21300000, guid: 7066388f7eb127e40a4378c1ed237bb4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Position=ScratchesRight
+  - Icon=lure
+  - Icon=Feeder
+  - State=Click
+  - Lines
+  - Icon=PerkSmall
+  - Icon=PerkSmallNone
+  - State=Normal
+  - Icon=HP
+  - Icon=Breeding
+  - State=Normal
+  - Icon=Damage
+  - Position=ScratchesLeft
+  - Icon=Recovery
+  - wls_shovel 1
+  - Icon=Sex
+  - State=Click
+  m_RenderDataMap: {}
+  m_Tag: IconsAtlas
+  m_IsVariant: 0
