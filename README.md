@@ -5,5 +5,5 @@ Unfortinatly I can't reach all UIKIT assets from employer figma mockup so I кep
 
 There is a video presentation of this repo
 -------------------------------------------------------------------------------------
-https://user-images.githubusercontent.com/34094063/203044894-2ba7ca22-2427-4439-83e3-59dca68a4fdd.mp4
+https://user-images.githubusercontent.com/34094063/203054364-52825cb3-8499-4a5a-b075-7dcd735c19b2.mp4
 
