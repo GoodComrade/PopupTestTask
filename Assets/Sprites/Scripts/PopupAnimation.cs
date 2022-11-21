@@ -10,17 +10,26 @@ public class PopupAnimation : MonoBehaviour
     [SerializeField] private CanvasGroup content;
     [SerializeField] private CanvasGroup tooltip;
     [SerializeField] private CanvasGroup button;
+
+    /*Unfortinalty interaction of DOTween asset with
+    TextMeshPro is avaluable only in paid version of asset*/
     [SerializeField] private CanvasGroup headerText;
+
     [SerializeField] private float animationDuration = 1f;
 
     private RectTransform tooltipRect;
 
+    //Start sizes of ui elements
     private float containerWidthStart = 1118;
     private float containerHeightStart = 85;
+    private float tooltipHeightStart = 110;
+
+    //Size of popup container without tooltip
     private float defaultContainerHeight = 590;
+    //Size of popup container with tooltip
     private float containerHeightTooltip = 720;
 
-    private float tooltipHeightStart = 110;
+    //Popup container size to expand where tooltip is expanding
     private float containerTooltipExpand = 45;
 
     private Transform[] tooltipTexts;
